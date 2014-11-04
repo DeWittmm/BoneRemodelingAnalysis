@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0AB86E7E1A09685B0048C5EB /* ModelTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB86E7D1A09685B0048C5EB /* ModelTypes.swift */; };
+		0AB86E801A098E6C0048C5EB /* ModelTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB86E7F1A098E6C0048C5EB /* ModelTypes.swift */; };
 		0AC181741A00791500157BC5 /* HelperFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC181711A00791500157BC5 /* HelperFunctions.swift */; };
 		0AC181751A00791500157BC5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC181721A00791500157BC5 /* main.swift */; };
 		0AC181761A00791500157BC5 /* ModelConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC181731A00791500157BC5 /* ModelConstants.swift */; };
@@ -27,7 +27,7 @@
 
 /* Begin PBXFileReference section */
 		0A96A1871A0024910028D9CD /* BoneRemodelingAnalysis */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BoneRemodelingAnalysis; sourceTree = BUILT_PRODUCTS_DIR; };
-		0AB86E7D1A09685B0048C5EB /* ModelTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelTypes.swift; sourceTree = SOURCE_ROOT; };
+		0AB86E7F1A098E6C0048C5EB /* ModelTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ModelTypes.swift; path = BoneRemodelingAnalysis/ModelTypes.swift; sourceTree = SOURCE_ROOT; };
 		0AC181711A00791500157BC5 /* HelperFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HelperFunctions.swift; path = BoneRemodelingAnalysis/HelperFunctions.swift; sourceTree = SOURCE_ROOT; };
 		0AC181721A00791500157BC5 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = main.swift; path = BoneRemodelingAnalysis/main.swift; sourceTree = SOURCE_ROOT; };
 		0AC181731A00791500157BC5 /* ModelConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ModelConstants.swift; path = BoneRemodelingAnalysis/ModelConstants.swift; sourceTree = SOURCE_ROOT; };
@@ -66,7 +66,7 @@
 				0AC181711A00791500157BC5 /* HelperFunctions.swift */,
 				0AC181731A00791500157BC5 /* ModelConstants.swift */,
 				0AC181721A00791500157BC5 /* main.swift */,
-				0AB86E7D1A09685B0048C5EB /* ModelTypes.swift */,
+				0AB86E7F1A098E6C0048C5EB /* ModelTypes.swift */,
 			);
 			path = BoneFatigueAnalysis;
 			sourceTree = "<group>";
@@ -128,7 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AC181751A00791500157BC5 /* main.swift in Sources */,
-				0AB86E7E1A09685B0048C5EB /* ModelTypes.swift in Sources */,
+				0AB86E801A098E6C0048C5EB /* ModelTypes.swift in Sources */,
 				0AC181741A00791500157BC5 /* HelperFunctions.swift in Sources */,
 				0AC181761A00791500157BC5 /* ModelConstants.swift in Sources */,
 			);

@@ -60,6 +60,10 @@
       <CommandLineArguments>
          <CommandLineArgument
             argument = "118 1000 118 1825 1 1"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "118 1000 118 1825 1"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
