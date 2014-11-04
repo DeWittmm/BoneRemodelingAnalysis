@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0A96A1861A0024910028D9CD"
-               BuildableName = "Bone Remodeling Analysis"
+               BuildableName = "BoneRemodelingAnalysis"
                BlueprintName = "BoneRemodelingAnalysis"
                ReferencedContainer = "container:BoneRemodelingAnalysis.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A96A1861A0024910028D9CD"
-            BuildableName = "Bone Remodeling Analysis"
+            BuildableName = "BoneRemodelingAnalysis"
             BlueprintName = "BoneRemodelingAnalysis"
             ReferencedContainer = "container:BoneRemodelingAnalysis.xcodeproj">
          </BuildableReference>
@@ -52,19 +52,15 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A96A1861A0024910028D9CD"
-            BuildableName = "Bone Remodeling Analysis"
+            BuildableName = "BoneRemodelingAnalysis"
             BlueprintName = "BoneRemodelingAnalysis"
             ReferencedContainer = "container:BoneRemodelingAnalysis.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "118 1000 1825 118"
+            argument = "118 1000 118 1825 1 1"
             isEnabled = "YES">
-         </CommandLineArgument>
-         <CommandLineArgument
-            argument = "118 1000 1825 118 1"
-            isEnabled = "NO">
          </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
@@ -80,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A96A1861A0024910028D9CD"
-            BuildableName = "Bone Remodeling Analysis"
+            BuildableName = "BoneRemodelingAnalysis"
             BlueprintName = "BoneRemodelingAnalysis"
             ReferencedContainer = "container:BoneRemodelingAnalysis.xcodeproj">
          </BuildableReference>

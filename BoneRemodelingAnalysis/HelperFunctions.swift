@@ -28,7 +28,6 @@ func input() -> Int? {
     let inputData = keyboard.availableData
     
     if let str: String = NSString(data: inputData, encoding:NSUTF8StringEncoding) {
-        
         return str.toInt()
     }
     
